@@ -1,0 +1,571 @@
+{
+  "continents": [
+    {
+      "id": "north-america",
+      "title": "América do Norte",
+      "description": "O Shopping Center do mundo",
+      "image": "https://images.pexels.com/photos/4039921/pexels-photo-4039921.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "bottom",
+      "bio": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+      "countries": 3,
+      "languages": 6,
+      "cities": 127
+    },{
+      "id": "south-america",
+      "title": "América do Sul",
+      "description": "Futebol, Carnaval e mulheres bonitas",
+      "image": "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "center",
+      "bio": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru. Seus limites naturais são: ao norte com o mar do Caribe; a leste, nordeste e sudeste com o oceano Atlântico; e a oeste com o oceano Pacífico. O Brasil representa atualmente a metade da população e produto econômico desta região.",
+      "countries": 12,
+      "languages": 9,
+      "cities": 127
+    }, {
+      "id": "asia",
+      "title": "Ásia",
+      "description": "O maior dos continentes",
+      "image": "https://images.pexels.com/photos/315191/pexels-photo-315191.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "center",
+      "bio": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. O ponto extremo setentrional do continente está localizado no oceano Glacial Ártico. Mas na parte meridional, a Ásia chega ao seu final na região mais quente dos trópicos, nas imediações da linha do equador. Na Ásia são encontradas algumas das montanhas mais altas do mundo; os rios mais extensos; os maiores desertos, planícies e planaltos; as selvas e florestas mais densas. A altitude máxima e a mínima está localizada na Ásia. O monte Everest, a altitude máxima do planeta, está localizada a 8 848 m acima do nível do mar; ao longo da linha fronteiriça da República Democrática Federal do Nepal com a região autônoma chinesa do Tibete. O litoral do mar Morto, a planície de menor altitude do mundo, estão localizadas a 396 m abaixo do nível do mar, na região fronteiriça do Estado de Israel com o Reino Hashemita da Jordânia.",
+      "countries": 50,
+      "languages": 49,
+      "cities": 127
+    }, {
+      "id": "africa",
+      "title": "África",
+      "description":"A mãe de tudo e de todos",
+      "image":"https://images.pexels.com/photos/861339/pexels-photo-861339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "bottom",
+      "bio": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+      "countries": 54,
+      "languages": 3000,
+      "cities": 127
+    }, {
+      "id": "europe",
+      "title": "Europa",
+      "description":"O continente mais antigo",
+      "image":"https://images.pexels.com/photos/258117/pexels-photo-258117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "center",
+      "bio": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia. A Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": 50,
+      "languages": 60,
+      "cities": 127
+    }, {
+      "id": "oceania",
+      "title": "Oceania",
+      "description":"Onde o nemo se escondeu",
+      "image":"https://images.pexels.com/photos/5707610/pexels-photo-5707610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "betterImagePosition": "center",
+      "bio": "Oceania é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes. Os limites da Oceania são definidos de várias maneiras. A maioria das definições reconhecem partes da Australásia como a Austrália, Nova Zelândia e Nova Guiné, e parte do Arquipélago Malaio como sendo partes da Oceania.",
+      "countries": 16,
+      "languages": 18,
+      "cities": 127
+    }
+  ],
+  "cities": [
+    {
+      "id": "london",
+      "name": "Londres",
+      "country": "Reino Unido",
+      "flag": "reino-unido",
+      "continent": "europe"
+    },
+    {
+      "id":"paris",
+      "name": "Paris",
+      "country": "França",
+      "flag": "franca",
+      "continent": "europe"
+    },
+    {
+      "id":"rome",
+      "name": "Roma",
+      "country": "Itália",
+      "flag": "italia",
+      "continent": "europe"
+    },
+    {
+      "id":"prague",
+      "name": "Praga",
+      "country": "República Tcheca",
+      "flag": "rep-tcheca",
+      "continent": "europe"
+    },
+    {
+      "id":"amsterdam",
+      "name": "Amsterdã",
+      "country": "Holanda",
+      "flag": "paises-baixos",
+      "continent": "europe"
+    },
+    {
+      "id":"new-york",
+      "name": "Nova York",
+      "country": "Estados Unidos da América",
+      "flag": "estados-unidos-america",
+      "continent": "north-america"
+    },
+    {
+      "id":"los-angeles",
+      "name": "Los Angeles",
+      "country": "Estados Unidos da América",
+      "flag": "estados-unidos-america",
+      "continent": "north-america"
+    },
+    {
+      "id":"san-francisco",
+      "name": "São Francisco",
+      "country": "Estados Unidos da América",
+      "flag": "estados-unidos-america",
+      "continent": "north-america"
+    },
+    {
+      "id":"orlando",
+      "name": "Orlando",
+      "country": "Estados Unidos da América",
+      "flag": "estados-unidos-america",
+      "continent": "north-america"
+    },
+    {
+      "id":"cidade-do-mexico",
+      "name": "Cidade do México",
+      "country": "México",
+      "flag": "mexico",
+      "continent": "north-america"
+    },
+    {
+      "id":"riviera-maya",
+      "name": "Riviera Maya",
+      "country": "México",
+      "flag": "mexico",
+      "continent": "north-america"
+    },
+    {
+      "id":"toronto",
+      "name": "Toronto",
+      "country": "Canadá",
+      "flag": "canada",
+      "continent": "north-america"
+    },
+    {
+      "id":"vancouver",
+      "name": "Vancouver",
+      "country": "Canadá",
+      "flag": "canada",
+      "continent": "north-america"
+    },
+    {
+      "id":"quebec",
+      "name": "Quebec",
+      "country": "Canadá",
+      "flag": "canada",
+      "continent": "north-america"
+    },
+    {
+      "id":"montreal",
+      "name": "Montreal",
+      "country": "Canadá",
+      "flag": "canada",
+      "continent": "north-america"
+    },
+    {
+      "id":"maranhao",
+      "name": "Maranhão",
+      "country": "Brasil",
+      "flag": "brasil",
+      "continent": "south-america"
+    },
+    {
+      "id":"rio-de-janeiro",
+      "name": "Rio de Janeiro",
+      "country": "Brasil",
+      "flag": "brasil",
+      "continent": "south-america"
+    },
+    {
+      "id":"morro-de-são-paulo",
+      "name": "Morro de São Paulo",
+      "country": "Brasil",
+      "flag": "brasil",
+      "continent": "south-america"
+    },
+    {
+      "id":"gramado",
+      "name": "Gramado",
+      "country": "Brasil",
+      "flag": "brasil",
+      "continent": "south-america"
+    },
+    {
+      "id":"bogota",
+      "name": "Bogotá",
+      "country": "Colômbia",
+      "flag": "colombia",
+      "continent": "south-america"
+    },
+    {
+      "id":"cartagena-das-indias",
+      "name": "Cartagena das Índias",
+      "country": "Colômbia",
+      "flag": "colombia",
+      "continent": "south-america"
+    },
+    {
+      "id":"guatape",
+      "name": "Guatapé",
+      "country": "Colômbia",
+      "flag": "colombia",
+      "continent": "south-america"
+    },
+    {
+      "id":"medellin",
+      "name": "Medellín",
+      "country": "Colômbia",
+      "flag": "colombia",
+      "continent": "south-america"
+    },
+    {
+      "id":"los-roques",
+      "name": "Los Roques",
+      "country": "Venezuela",
+      "flag": "venezuela",
+      "continent": "south-america"
+    },
+    {
+      "id":"caracas",
+      "name": "Caracas",
+      "country": "Venezuela",
+      "flag": "venezuela",
+      "continent": "south-america"
+    },
+    {
+      "id":"meridas",
+      "name": "Méridas",
+      "country": "Venezuela",
+      "flag": "venezuela",
+      "continent": "south-america"
+    },
+    {
+      "id":"buenos-aires",
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "flag": "argentina",
+      "continent": "south-america"
+    },
+    {
+      "id":"puerto-iguazu",
+      "name": "Puerto Iguazu",
+      "country": "Argentina",
+      "flag": "argentina",
+      "continent": "south-america"
+    },
+    {
+      "id":"el-calafate",
+      "name": "El Calafate",
+      "country": "Argentina",
+      "flag": "argentina",
+      "continent": "south-america"
+    },
+    {
+      "id":"ushuaia",
+      "name": "Ushuaia",
+      "country": "Argentina",
+      "flag": "argentina",
+      "continent": "south-america"
+    },   
+    {
+      "id":"sochi",
+      "name": "Sochi",
+      "country": "Rússia",
+      "flag": "russia",
+      "continent": "asia"
+    },
+    {
+      "id":"moscow",
+      "name": "Moscou",
+      "country": "Rússia",
+      "flag": "russia",
+      "continent": "asia"
+    },
+    {
+      "id":"nizhny-novgorod",
+      "name": "Nizhny Novgorod",
+      "country": "Rússia",
+      "flag": "russia",
+      "continent": "asia"
+    },
+    {
+      "id":"volgograd",
+      "name": "Volgograd",
+      "country": "Rússia",
+      "flag": "russia",
+      "continent": "asia"
+    },
+    {
+      "id":"nova-delhi",
+      "name": "Nova Délhi",
+      "country": "Índia",
+      "flag": "india",
+      "continent": "asia"
+    },
+    {
+      "id":"mumbai",
+      "name": "Mumbai",
+      "country": "Índia",
+      "flag": "india",
+      "continent": "asia"
+    },
+    {
+      "id":"bangalore",
+      "name": "Bagalore",
+      "country": "Índia",
+      "flag": "india",
+      "continent": "asia"
+    },
+    {
+      "id":"agra",
+      "name": "Agra",
+      "country": "Índia",
+      "flag": "india",
+      "continent": "asia"
+    },
+    {
+      "id":"tokyo",
+      "name": "Tokyo",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"kyoto",
+      "name": "Kyoto",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"nara",
+      "name": "Nara",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"hiroshima",
+      "name": "Hiroshima",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"nagano",
+      "name": "Nagano",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"yokohama",
+      "name": "Yokohama",
+      "country": "Japão",
+      "flag": "japao",
+      "continent": "asia"
+    },
+    {
+      "id":"xangai",
+      "name": "Xangai",
+      "country": "China",
+      "flag": "china",
+      "continent": "asia"
+    },
+    {
+      "id":"xian",
+      "name": "Xi'an",
+      "country": "China",
+      "flag": "china",
+      "continent": "asia"
+    },
+    {
+      "id":"xangai",
+      "name": "Xangai",
+      "country": "China",
+      "flag": "china",
+      "continent": "asia"
+    },
+    {
+      "id":"guilin",
+      "name": "Guilin",
+      "country": "China",
+      "flag": "china",
+      "continent": "asia"
+    },
+    {
+      "id":"cairo",
+      "name": "Cairo",
+      "country": "Egito",
+      "flag": "egito",
+      "continent": "asia"
+    },
+    {
+      "id":"alexandria",
+      "name": "Alexandria",
+      "country": "Egito",
+      "flag": "egito",
+      "continent": "asia"
+    },
+    {
+      "id":"abu-simel",
+      "name": "Abu Simel",
+      "country": "Egito",
+      "flag": "egito",
+      "continent": "asia"
+    },
+    {
+      "id":"luxor",
+      "name": "Luxor",
+      "country": "Egito",
+      "flag": "egito",
+      "continent": "asia"
+    },
+    {
+      "id":"cable-city",
+      "name": "Cidade do Cabo",
+      "country": "África do Sul",
+      "flag": "africa-do-sul",
+      "continent": "africa"
+    },
+    {
+      "id":"pretoria",
+      "name": "Pretória",
+      "country": "África do Sul",
+      "flag": "africa-do-sul",
+      "continent": "africa"
+    },
+    {
+      "id":"durban",
+      "name": "Durban",
+      "country": "África do Sul",
+      "flag": "africa-do-sul",
+      "continent": "africa"
+    },
+    {
+      "id":"johannesburg",
+      "name": "Joanesburgo",
+      "country": "África do Sul",
+      "flag": "africa-do-sul",
+      "continent": "africa"
+    },
+    {
+      "id":"bloemfontein",
+      "name": "Bloemfontein",
+      "country": "África do Sul",
+      "flag": "africa-do-sul",
+      "continent": "africa"
+    },
+    {
+      "id":"santa-maria",
+      "name": "Santa Maria",
+      "country": "Cabo Verde",
+      "flag": "cabo-verde",
+      "continent": "africa"
+    },
+    {
+      "id":"santiago",
+      "name": "Santiago",
+      "country": "Cabo Verde",
+      "flag": "cabo-verde",
+      "continent": "africa"
+    },
+    {
+      "id":"good-view",
+      "name": "Boa Vista",
+      "country": "Cabo Verde",
+      "flag": "cabo-verde",
+      "continent": "africa"
+    },
+    {
+      "id":"sydney",
+      "name": "Sydney",
+      "country": "Austrália",
+      "flag": "australia",
+      "continent": "oceania"
+    },
+    {
+      "id":"perth",
+      "name": "Perth",
+      "country": "Austrália",
+      "flag": "australia",
+      "continent": "oceania"
+    },
+    {
+      "id":"melbourne",
+      "name": "Melbourne",
+      "country": "Austrália",
+      "flag": "australia",
+      "continent": "oceania"
+    },
+    {
+      "id":"brisbane",
+      "name": "Brisbane",
+      "country": "Austrália",
+      "flag": "australia",
+      "continent": "oceania"
+    },
+    {
+      "id":"komodo",
+      "name": "Komodo",
+      "country": "Indonésia",
+      "flag": "indonesia",
+      "continent": "oceania"
+    },
+    {
+      "id":"wakatobi",
+      "name": "Wakatobi",
+      "country": "Indonésia",
+      "flag": "indonesia",
+      "continent": "oceania"
+    },
+    {
+      "id":"lombok",
+      "name": "Lombok",
+      "country": "Indonésia",
+      "flag": "indonesia",
+      "continent": "oceania"
+    },
+    {
+      "id":"borobudur",
+      "name": "Borobudur",
+      "country": "Indonésia",
+      "flag": "indonesia",
+      "continent": "oceania"
+    },
+    {
+      "id":"auckland",
+      "name": "Auckland",
+      "country": "Nova Zelândia",
+      "flag": "nova-zelandia",
+      "continent": "oceania"
+    },
+    {
+      "id":"christchurch",
+      "name": "Christchurch",
+      "country": "Nova Zelândia",
+      "flag": "nova-zelandia",
+      "continent": "oceania"
+    },
+    {
+      "id":"gisborne",
+      "name": "Gisborne",
+      "country": "Nova Zelândia",
+      "flag": "nova-zelandia",
+      "continent": "oceania"
+    },
+    {
+      "id":"hamilton",
+      "name": "Hamilton",
+      "country": "Nova Zelândia",
+      "flag": "nova-zelandia",
+      "continent": "oceania"
+    }
+  ]
+}
